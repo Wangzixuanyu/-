@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-10T02:31:11.725Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.3 Safari/605.1.15" etag="Xzhh5U5skLgAHDXzVcWU" version="14.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-10T03:49:11.588Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.3 Safari/605.1.15" etag="zgyL2rEeko8qwT4DDGsl" version="14.3.0" type="github" pages="6">
   <diagram id="3GII2xD4M3Ygol3iBXiX" name="Page-1">
     <mxGraphModel dx="629" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6,6 +6,297 @@
         <mxCell id="1" parent="0" />
         <mxCell id="iBdI-d79ptrsJ2n_UIpu-1" value="" style="rounded=1;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
           <mxGeometry x="10" y="50" width="90" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Argument 06" id="5zOJgpBGLn2MKuZhkjje">
+    <mxGraphModel dx="1080" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rOurAneRf_fwM4xsID06-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rOurAneRf_fwM4xsID06-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rOurAneRf_fwM4xsID06-1" value="当地猎人汇报说北极鹿数量减少" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rOurAneRf_fwM4xsID06-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rOurAneRf_fwM4xsID06-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rOurAneRf_fwM4xsID06-5" value="全球变暖导致海冰融化" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rOurAneRf_fwM4xsID06-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rOurAneRf_fwM4xsID06-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="310" />
+              <mxPoint x="500" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rOurAneRf_fwM4xsID06-7" value="北极鹿栖息地海冰消失了，或者不够支撑迁徙" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="250" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rOurAneRf_fwM4xsID06-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rOurAneRf_fwM4xsID06-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rOurAneRf_fwM4xsID06-8" value="北极鹿真的减少了" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="250" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rOurAneRf_fwM4xsID06-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rOurAneRf_fwM4xsID06-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rOurAneRf_fwM4xsID06-9" value="全球变暖没有导致北极鹿食物丰富，它们还需要迁徙" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="250" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rOurAneRf_fwM4xsID06-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rOurAneRf_fwM4xsID06-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rOurAneRf_fwM4xsID06-12" value="没有别的因素造成北极鹿数量减少，比如说过度捕猎" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="250" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rOurAneRf_fwM4xsID06-15" value="北极鹿减少是由于全球变暖导致的海冰消失" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="540" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Argument 62" id="qAiH9EecpgFdgi0202iS">
+    <mxGraphModel dx="1296" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="6gF3Gzq4oiWEZJZ6y-O3-0" />
+        <mxCell id="6gF3Gzq4oiWEZJZ6y-O3-1" parent="6gF3Gzq4oiWEZJZ6y-O3-0" />
+        <mxCell id="6gF3Gzq4oiWEZJZ6y-O3-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="6gF3Gzq4oiWEZJZ6y-O3-1" source="6gF3Gzq4oiWEZJZ6y-O3-2" target="6gF3Gzq4oiWEZJZ6y-O3-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6gF3Gzq4oiWEZJZ6y-O3-2" value="去年，新店的最热销五款奶酪都是国产的" style="rounded=1;whiteSpace=wrap;html=1;" parent="6gF3Gzq4oiWEZJZ6y-O3-1" vertex="1">
+          <mxGeometry x="110" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6gF3Gzq4oiWEZJZ6y-O3-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="6gF3Gzq4oiWEZJZ6y-O3-1" source="6gF3Gzq4oiWEZJZ6y-O3-3" target="6gF3Gzq4oiWEZJZ6y-O3-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6gF3Gzq4oiWEZJZ6y-O3-3" value="奶酪世界读者表明对国产奶酪的偏好提升" style="rounded=1;whiteSpace=wrap;html=1;" parent="6gF3Gzq4oiWEZJZ6y-O3-1" vertex="1">
+          <mxGeometry x="110" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6gF3Gzq4oiWEZJZ6y-O3-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="6gF3Gzq4oiWEZJZ6y-O3-1" source="6gF3Gzq4oiWEZJZ6y-O3-4" target="6gF3Gzq4oiWEZJZ6y-O3-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6gF3Gzq4oiWEZJZ6y-O3-4" value="减少库存利于减少成本" style="rounded=1;whiteSpace=wrap;html=1;" parent="6gF3Gzq4oiWEZJZ6y-O3-1" vertex="1">
+          <mxGeometry x="110" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6gF3Gzq4oiWEZJZ6y-O3-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="6gF3Gzq4oiWEZJZ6y-O3-1" source="6gF3Gzq4oiWEZJZ6y-O3-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6gF3Gzq4oiWEZJZ6y-O3-6" value="全国的情况都是如此" style="whiteSpace=wrap;html=1;rounded=1;dashed=1;" parent="6gF3Gzq4oiWEZJZ6y-O3-1" vertex="1">
+          <mxGeometry x="310" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6gF3Gzq4oiWEZJZ6y-O3-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="6gF3Gzq4oiWEZJZ6y-O3-1" source="6gF3Gzq4oiWEZJZ6y-O3-8" target="6gF3Gzq4oiWEZJZ6y-O3-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6gF3Gzq4oiWEZJZ6y-O3-8" value="偏好提升显著，且我们的顾客很多是奶酪世界的读者" style="whiteSpace=wrap;html=1;rounded=1;dashed=1;" parent="6gF3Gzq4oiWEZJZ6y-O3-1" vertex="1">
+          <mxGeometry x="310" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6gF3Gzq4oiWEZJZ6y-O3-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="6gF3Gzq4oiWEZJZ6y-O3-1" source="6gF3Gzq4oiWEZJZ6y-O3-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6gF3Gzq4oiWEZJZ6y-O3-10" value="减少的成本比减少的利润多很多，也就是说进口奶酪的利润并不突出" style="whiteSpace=wrap;html=1;rounded=1;dashed=1;" parent="6gF3Gzq4oiWEZJZ6y-O3-1" vertex="1">
+          <mxGeometry x="310" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6gF3Gzq4oiWEZJZ6y-O3-15" value="减少进口奶酪可以增加利润" style="rounded=1;whiteSpace=wrap;html=1;" parent="6gF3Gzq4oiWEZJZ6y-O3-1" vertex="1">
+          <mxGeometry x="520" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Argument 77" id="MByCpsmSndI_dV3GilYP">
+    <mxGraphModel dx="1296" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="bcpXUKuJUceUSi5PKA7d-0" />
+        <mxCell id="bcpXUKuJUceUSi5PKA7d-1" parent="bcpXUKuJUceUSi5PKA7d-0" />
+        <mxCell id="bcpXUKuJUceUSi5PKA7d-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="bcpXUKuJUceUSi5PKA7d-1" source="bcpXUKuJUceUSi5PKA7d-2" target="bcpXUKuJUceUSi5PKA7d-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bcpXUKuJUceUSi5PKA7d-2" value="1975年两栖类种类和数量都很大，但2002年种类和数量都变少" style="rounded=1;whiteSpace=wrap;html=1;" parent="bcpXUKuJUceUSi5PKA7d-1" vertex="1">
+          <mxGeometry x="60" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bcpXUKuJUceUSi5PKA7d-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="bcpXUKuJUceUSi5PKA7d-1" source="bcpXUKuJUceUSi5PKA7d-3" target="bcpXUKuJUceUSi5PKA7d-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bcpXUKuJUceUSi5PKA7d-3" value="1975年引入了Trout" style="rounded=1;whiteSpace=wrap;html=1;" parent="bcpXUKuJUceUSi5PKA7d-1" vertex="1">
+          <mxGeometry x="60" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bcpXUKuJUceUSi5PKA7d-5" value="两栖类减少是由于trout吃卵导致的" style="rounded=1;whiteSpace=wrap;html=1;" parent="bcpXUKuJUceUSi5PKA7d-1" vertex="1">
+          <mxGeometry x="460" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bcpXUKuJUceUSi5PKA7d-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="bcpXUKuJUceUSi5PKA7d-1" source="bcpXUKuJUceUSi5PKA7d-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bcpXUKuJUceUSi5PKA7d-6" value="Trout数量大，而且刚好吃公园里生活的两栖类的卵" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="bcpXUKuJUceUSi5PKA7d-1" vertex="1">
+          <mxGeometry x="210" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bcpXUKuJUceUSi5PKA7d-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="bcpXUKuJUceUSi5PKA7d-1" source="bcpXUKuJUceUSi5PKA7d-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bcpXUKuJUceUSi5PKA7d-7" value="公园的生态环境一直适合两栖类生存，不存在生态失衡、污染、湿地消失等问题" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="bcpXUKuJUceUSi5PKA7d-1" vertex="1">
+          <mxGeometry x="210" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Argument 09" id="vxQYpxGEaXHcJRzSeiKB">
+    <mxGraphModel dx="1851" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="v8eb13FoDwvLDbWa_10D-0" />
+        <mxCell id="v8eb13FoDwvLDbWa_10D-1" parent="v8eb13FoDwvLDbWa_10D-0" />
+        <mxCell id="v8eb13FoDwvLDbWa_10D-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="v8eb13FoDwvLDbWa_10D-1" source="v8eb13FoDwvLDbWa_10D-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v8eb13FoDwvLDbWa_10D-2" value="商家报告plainsville的跑鞋和运动服销量史上最高" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="v8eb13FoDwvLDbWa_10D-1">
+          <mxGeometry x="80" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v8eb13FoDwvLDbWa_10D-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="v8eb13FoDwvLDbWa_10D-1" source="v8eb13FoDwvLDbWa_10D-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v8eb13FoDwvLDbWa_10D-4" value="Plainsville的健身俱乐部人数史上最高，且减肥或有氧课人数多" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="v8eb13FoDwvLDbWa_10D-1">
+          <mxGeometry x="80" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v8eb13FoDwvLDbWa_10D-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="v8eb13FoDwvLDbWa_10D-1" source="v8eb13FoDwvLDbWa_10D-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v8eb13FoDwvLDbWa_10D-5" value="学校要求学生从小开始参加“终身健康”的项目，要求他们重视锻炼" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="v8eb13FoDwvLDbWa_10D-1">
+          <mxGeometry x="80" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v8eb13FoDwvLDbWa_10D-6" value="Nature&#39;s Way在Plainsville的新店会成功" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="v8eb13FoDwvLDbWa_10D-1">
+          <mxGeometry x="790" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v8eb13FoDwvLDbWa_10D-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="v8eb13FoDwvLDbWa_10D-1" source="v8eb13FoDwvLDbWa_10D-8" target="v8eb13FoDwvLDbWa_10D-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v8eb13FoDwvLDbWa_10D-8" value="绝对量确实很大" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="v8eb13FoDwvLDbWa_10D-1">
+          <mxGeometry x="260" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v8eb13FoDwvLDbWa_10D-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="v8eb13FoDwvLDbWa_10D-1" source="v8eb13FoDwvLDbWa_10D-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v8eb13FoDwvLDbWa_10D-10" value="绝对人数确实很高" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="v8eb13FoDwvLDbWa_10D-1">
+          <mxGeometry x="260" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v8eb13FoDwvLDbWa_10D-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="v8eb13FoDwvLDbWa_10D-1" source="v8eb13FoDwvLDbWa_10D-12" target="v8eb13FoDwvLDbWa_10D-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v8eb13FoDwvLDbWa_10D-12" value="这样的项目会有用" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="v8eb13FoDwvLDbWa_10D-1">
+          <mxGeometry x="260" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v8eb13FoDwvLDbWa_10D-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="v8eb13FoDwvLDbWa_10D-1" source="v8eb13FoDwvLDbWa_10D-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v8eb13FoDwvLDbWa_10D-14" value="Plainsville的大部分人很注重健康和锻炼" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="v8eb13FoDwvLDbWa_10D-1">
+          <mxGeometry x="470" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v8eb13FoDwvLDbWa_10D-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="v8eb13FoDwvLDbWa_10D-1" source="v8eb13FoDwvLDbWa_10D-18" target="v8eb13FoDwvLDbWa_10D-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v8eb13FoDwvLDbWa_10D-18" value="Plainsville的人保持健康的方式包括健康食品以及别的Nature&#39;s Way的产品" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="v8eb13FoDwvLDbWa_10D-1">
+          <mxGeometry x="630" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RsDNAiIXXHgeMyAb1Hdq-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="v8eb13FoDwvLDbWa_10D-1" source="RsDNAiIXXHgeMyAb1Hdq-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="770" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RsDNAiIXXHgeMyAb1Hdq-0" value="当地的市场并未饱和" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="v8eb13FoDwvLDbWa_10D-1">
+          <mxGeometry x="630" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Argument 18" id="WCLX4gS5_O71R56GibaY">
+    <mxGraphModel dx="1296" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="Pu3IK61KW5shOCisArsw-0" />
+        <mxCell id="Pu3IK61KW5shOCisArsw-1" parent="Pu3IK61KW5shOCisArsw-0" />
+        <mxCell id="Pu3IK61KW5shOCisArsw-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Pu3IK61KW5shOCisArsw-1" source="Pu3IK61KW5shOCisArsw-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pu3IK61KW5shOCisArsw-2" value="自从两年前WCQP增加呼入咨询栏目，他们在Rockville的听众份额显著增加" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Pu3IK61KW5shOCisArsw-1">
+          <mxGeometry x="80" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pu3IK61KW5shOCisArsw-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Pu3IK61KW5shOCisArsw-1" source="Pu3IK61KW5shOCisArsw-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pu3IK61KW5shOCisArsw-3" value="全国性的一个调查显示听众对呼入栏目类栏目感兴趣" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Pu3IK61KW5shOCisArsw-1">
+          <mxGeometry x="80" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pu3IK61KW5shOCisArsw-4" value="KICK应该在Medway也开始呼入咨询类栏目以吸引更多听众" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Pu3IK61KW5shOCisArsw-1">
+          <mxGeometry x="720" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pu3IK61KW5shOCisArsw-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Pu3IK61KW5shOCisArsw-1" source="Pu3IK61KW5shOCisArsw-6" target="Pu3IK61KW5shOCisArsw-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pu3IK61KW5shOCisArsw-6" value="其总听众人数增加导致其份额增加，而非别的因素，如竞争对手衰退" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="Pu3IK61KW5shOCisArsw-1">
+          <mxGeometry x="240" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pu3IK61KW5shOCisArsw-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Pu3IK61KW5shOCisArsw-1" source="Pu3IK61KW5shOCisArsw-8" target="Pu3IK61KW5shOCisArsw-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pu3IK61KW5shOCisArsw-8" value="这一结果可以适用于Medway" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="Pu3IK61KW5shOCisArsw-1">
+          <mxGeometry x="240" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pu3IK61KW5shOCisArsw-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Pu3IK61KW5shOCisArsw-1" source="Pu3IK61KW5shOCisArsw-10" target="Pu3IK61KW5shOCisArsw-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pu3IK61KW5shOCisArsw-10" value="Medway的听众也会对这类栏目感兴趣" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="Pu3IK61KW5shOCisArsw-1">
+          <mxGeometry x="540" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pu3IK61KW5shOCisArsw-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Pu3IK61KW5shOCisArsw-1" source="Pu3IK61KW5shOCisArsw-13" target="Pu3IK61KW5shOCisArsw-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pu3IK61KW5shOCisArsw-13" value="其听众人数增加是因为呼入咨询栏目，而非别的栏目" style="whiteSpace=wrap;html=1;rounded=1;dashed=1;" vertex="1" parent="Pu3IK61KW5shOCisArsw-1">
+          <mxGeometry x="380" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pu3IK61KW5shOCisArsw-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Pu3IK61KW5shOCisArsw-1" source="Pu3IK61KW5shOCisArsw-16" target="Pu3IK61KW5shOCisArsw-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pu3IK61KW5shOCisArsw-16" value="Medway的此类节目还没有很多" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="Pu3IK61KW5shOCisArsw-1">
+          <mxGeometry x="540" y="150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
